@@ -4,6 +4,11 @@
 	padding: 25px 0px;
 }
 
+.pricing {
+  display: inline-block;
+  color: #A1A1A1;
+}
+
 .thumbnail {
     width: 300px;
     margin-top: 25px;
